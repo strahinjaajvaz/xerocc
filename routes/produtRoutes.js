@@ -1,7 +1,6 @@
 const uuid = require("uuid");
 
 let products = require("../db/products.json");
-let productOptions = require("../db/productOptions.json");
 
 module.exports = function (app) {
   app.get("/products", function (req, res) {

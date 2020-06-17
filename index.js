@@ -5,6 +5,7 @@ app.use(express.urlencoded({ extended: true }));
 app.use(express.json());
 
 require("./routes/produtRoutes")(app);
+require("./routes/produtOptionRoutes")(app);
 
 const PORT = process.env.PORT || 4000;
 
