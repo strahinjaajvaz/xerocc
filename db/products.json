@@ -1,0 +1,23 @@
+[
+  {
+    "Id": "01234567-89ab-cdef-0123-456789abcdef",
+    "Name": "Apple iPhone 11",
+    "Description": "Factory refurbished to the highest working standards.",
+    "Price": 499.0,
+    "DeliveryPrice": 499.0
+  },
+  {
+    "Id": "ef887070-b08c-11ea-b3de-0242ac130004",
+    "Name": "Ovela Folding Ottoman Bed",
+    "Description": "Ottoman by day; bed by night.",
+    "Price": 116.95,
+    "DeliveryPrice": 100
+  },
+  {
+    "Id": "dfbbb6f6-2c30-4f2b-9f58-0143d676673c",
+    "Name": "Dyson TP04 Pure Cool Link Purifying Tower Fan",
+    "Description": "Detects. Purifies. Cools. Alerts.",
+    "Price": 799,
+    "DeliveryPrice": 799.0
+  }
+]
